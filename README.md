@@ -17,11 +17,12 @@ https://ai-mock-interview-chi-sage.vercel.app/
 
 
 
+
 User logs in with Google Authentication (Clerk) → data securely stored in Convex Database.
 
 
 
-<img width="1872" height="937" alt="Screenshot 2025-08-29 094412" src="https://github.com/user-attachments/assets/f2882620-3617-441a-90a5-62d48082cb91" />
+<img width="1379" height="781" alt="Screenshot 2025-08-29 114646" src="https://github.com/user-attachments/assets/a6a02c12-cb23-4776-8647-844d7aa613da" />
 
 
 
